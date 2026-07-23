@@ -13,8 +13,8 @@ The objective of this analysis is to evaluate whether an acquisition can create 
   - Two-way sensitivity analysis table evaluating WACC vs. Terminal Growth.
 - **`reports/GreenPower_Valuation_Summary.docx`**: Two-page executive valuation summary document.
 - **`reports/GreenPower_Investment_Recommendation.docx`**: Final investment committee decision memo outlining risks, value creation levers, and deal terms.
-- **`slides/GreenPower_Executive_Presentation.pdf`**: 10-slide executive presentation deck for the investment committee. *(View the slide deck [here](./slides/GreenPower_Executive_Presentation.pdf))*
-
+- **`slides/GreenPower_Executive_Presentation.pdf`**: 10-slide executive presentation deck for the investment committee. *(Preview the slide deck [here](./slides/GreenPower_Executive_Presentation.pdf))*
+-]
 -
 ---
 ## 📈 Valuation Summary & Scenarios
